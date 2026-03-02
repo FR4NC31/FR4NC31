@@ -94,4 +94,4 @@ Always learning. Always improving.
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=FR4NC31&icon=1&color=0)
+[![](https://visitcount.itsvg.in/api?id=FR4NC31&icon=1&color=0)](https://visitcount.itsvg.in)
